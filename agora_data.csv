@@ -1,4 +1,4 @@
-Country_Region,Last_Update,Lat,Long_,TotalScore,Presence_of_Laws_that_affect_CSOs,Ease_of_Moving_Funds,Ease_of_Registration,Ease_of_fundraising_from_external_sources,Freedom_of_Expression,Freedom_of_Assembly,Mortality_Rate,UID,ISO3
+Country_Region,Last_Update,Lat,Long_,TotalScore,Presence_of_Laws_that_affect_CSOs,Ease_of_Moving_Funds,Ease_of_Registration,Ease_of_fundraising_from_external_sources,Freedom_of_Expression,Freedom_of_Assembly,UID,ISO3
 
 Angola,2022-06-25 13:21:00,-11.2027,17.8739,22,1900,,,303.5361361989746,24,AGO
 Botswana,2022-06-25 13:21:00,-22.3285,24.6849,17,2719,,,13545.016743741033,72,BWA
