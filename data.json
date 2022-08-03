@@ -30,7 +30,8 @@
        "Primary_Link":"https://botswanalaws.com/StatutesActpdf/1972Actpdf/SOCIETIES ACT, 19 OF 1972.pdf",
       "FeaturesOfTheLaw":"The Act confers authority to the state to cancel the registration of CSOs where such an entity is deemed to have violated the law. The Act also requires CSOs to disclose any change in name, object or founding documents of an organisation.",
                     "flag":"https://th.bing.com/th/id/R.a19ae00325f9ffe1dcaf97d286582d42?rik=IVICpIzlgFCIVg&riu=http%3a%2f%2fwww.flagdetective.com%2fimages%2fdownload%2fbotswana-hi.jpg&ehk=R5%2f%2bMtnSMgiGZb1BmOsIp0Znkq4l%2bNFcWvk0rAtkQhE%3d&risl=&pid=ImgRaw&r=0",
-       "otherLaws":["law1":"HI i am law1","law2":"Hi I am law2"]
+       "otherLaws":{"newLaw":"Genesis 1v1 ",
+                  "law2":"law 2"}
 
 
  },
